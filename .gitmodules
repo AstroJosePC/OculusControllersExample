@@ -1,0 +1,3 @@
+[submodule "OculusControllerExample/Assets/VRTK.Tutorials.OculusIntegration"]
+	path = OculusControllerExample/Assets/VRTK.Tutorials.OculusIntegration
+	url = https://github.com/ExtendRealityLtd/VRTK.Tutorials.OculusIntegration.git
